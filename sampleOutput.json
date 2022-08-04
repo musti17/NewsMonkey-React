@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Oluwashina Okeleji",
+      "title": "In African women’s football, homophobia still poses a barrier",
+      "description": "In Nigeria, ex-players allege they were discriminated against by officials over real or perceived sexual preferences.",
+      "url": "http://www.aljazeera.com/features/2022/7/29/in-african-womens-football-homophobia-still-impedes-progress",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/07/2007-06-03T120000Z_1289960672_GM1DVKEUQTAA_RTRMADP_3_SOCCER.jpg?resize=1200%2C630",
+      "publishedAt": "2022-07-29T11:58:07Z",
+      "content": "Nigerias hegemonic decades-long dominance over Africas womens football scene has long masked a dark secret: Openly homosexual players are not allowed.\r\nThe Super Falcons are Africas most prosperous n… [+7332 chars]"
+    },
+    {
+      "source": {
+        "id": "four-four-two",
+        "name": "FourFourTwo"
+      },
+      "author": "PA Staff",
+      "title": "Ryan Alebiosu hopes loan move from Arsenal to Kilmarnock takes him to next level",
+      "description": "Ryan Alebiosu hopes his loan move from Arsenal to Kilmarnock marks the final step of his journey to first-team football with the Gunners.",
+      "url": "https://www.fourfourtwo.com/news/ryan-alebiosu-hopes-loan-move-from-arsenal-to-kilmarnock-takes-him-to-next-level-1659094649000",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/dcKS52ZLwdso82rREmGExC-1200-80.jpg",
+      "publishedAt": "2022-07-29T11:37:29Z",
+      "content": "Ryan Alebiosu hopes his loan move from Arsenal to Kilmarnock marks the final step of his journey to first-team football with the Gunners.\r\nThe 20-year-old right-sided defender from London joined the … [+2141 chars]"
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": null,
+      "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+      "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+      "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+      "publishedAt": "2020-04-27T07:20:43Z",
+      "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+    }
+  ]
+}
